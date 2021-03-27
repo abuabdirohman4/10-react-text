@@ -1,1 +1,1 @@
-# 10-react-text
+# sc-10-react-text
